@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Wendy Silva. 👋
 
-- 🔭 Estou em transição de carreira.
+- 🔭 Estou em transição de carreira!
 - 🌱 Sou estudante de na Trybe - Turma XP.
 
 <div align="center">
@@ -12,13 +12,7 @@
   ##
  
   <div>
-  <img align="right" alt="Wendy-pic" height="150" style="border-radius:50px;" src="<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/d56b0ba3b59d4046da7d00cfee59a82c.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"> 
-  </div>
- 
-  ##
- 
-  <div>
-  <a href="https://instagram.com/wendysssilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<img align="right" alt="" height="150" style="border-radius:50px;" src="<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/d56b0ba3b59d4046da7d00cfee59a82c.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"> <a href="https://instagram.com/wendysssilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wendy.trab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wendysilvasouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
