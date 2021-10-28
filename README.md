@@ -1,7 +1,7 @@
 <p align="center"> <b>Olá! Meu nome é Wendy Silva. 👋</b></p>
 
 <p align="center">- 🔭 Estou em transição de carreira!</p>
-<p align="center">- 🌱 Sou estudante de na Trybe - Turma XP.</p>
+<p align="center">- 🌱 Sou estudante na Trybe - Turma XP.</p>
 
 <div align="center">
   <a href="https://github.com/WendySilva">
