@@ -1,4 +1,4 @@
-<p align="center"> <b>Olá! Meu nome é Wendy Silva. 👋</b></p>
+<h1 align="center"> Olá! Meu nome é Wendy Silva.</h1>
 
 <p align="center">- 🔭 Estou em transição de carreira!</p>
 <p align="center">- 🌱 Sou estudante na Trybe - Turma XP.</p>
