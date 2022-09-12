@@ -1,8 +1,8 @@
 <h1 align="center"> Olá! Meu nome é Wendy Silva.</h1>
 
 <div align="center">
-  <p align="center">- 🔭 Estou em transição de carreira!</p>
-  <p align="center">- 🌱 Sou estudante na Trybe - Turma XP.</p>
+  <p align="center">- 🔭 Sou desenvolvedora Full Stack!</p>
+  
   <a href="https://github.com/WendySilva">
   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=WendySilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
