@@ -1,7 +1,7 @@
 <h1 align="center"> Olá! Meu nome é Wendy Silva.</h1>
 
 <div align="center">
-  <p align="center">- 🔭 Sou desenvolvedora Full Stack!</p>
+  <p align="center">Sou desenvolvedora Back-End!</p>
   
   <a href="https://github.com/WendySilva">
   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=WendySilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
