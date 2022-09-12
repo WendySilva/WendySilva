@@ -1,12 +1,11 @@
 <h1 align="center"> Olá! Meu nome é Wendy Silva.</h1>
 
-<p align="center">- 🔭 Estou em transição de carreira!</p>
-<p align="center">- 🌱 Sou estudante na Trybe - Turma XP.</p>
-
 <div align="center">
+  <p align="center">- 🔭 Estou em transição de carreira!</p>
+  <p align="center">- 🌱 Sou estudante na Trybe - Turma XP.</p>
   <a href="https://github.com/WendySilva">
   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=WendySilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendySilva&layout=compact&langs_count=7&theme=dracula"/>
+
 </div> 
  
   ##
