@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, My name is Wendy. 🙋🏻‍♀️</h1>
+<h1 align="center"> Hello! My name is Wendy. 🙋🏻‍♀️</h1>
 
 <div align="center">
   <p align="center">I'm a software developer!👩🏻‍💻</p>
